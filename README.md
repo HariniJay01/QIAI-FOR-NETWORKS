@@ -1,0 +1,2 @@
+Networks often struggle with high latency, packet loss, and congestion, affecting performance and reliability. Traditional methods of diagnosis lack adaptability. This project proposes a Quantum-Inspired AI-based self-healing solution to detect, prevent, and resolve network issues, ensuring optimal efficiency and seamless connectivity.
+![image](https://github.com/user-attachments/assets/22cc6554-d20c-46d1-b035-ac4736c002ae)
